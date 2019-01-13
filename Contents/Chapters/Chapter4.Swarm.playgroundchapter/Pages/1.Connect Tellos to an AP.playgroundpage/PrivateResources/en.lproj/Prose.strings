@@ -1,0 +1,14 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift command to connect all Tellos to the same Access Point.
+
+Before controlling multiple Tellos, you need to set them up to connect to the same Wireless Access Point (AP). Prepare the SSID and Password of the AP, and follow the steps below:
+
+1. Connect to one Tello;
+2. Use `connectAP(ssid: String, password: String)`, and replace the `String` with AP's SSID and password. Remember to wrap them with double quotes, like so `connectAP(ssid: \"AP's SSID\", password: \"AP's password\")`
+3. Wait for the Tello to restart. It will connect to the AP automatically.
+4. Repeat steps 1 to 3 for all Tellos you have.
+
+Once a Tello has been given the `connectAP()` command, it will change its wireless mode to what we call station mode, and Tello will stay in this mode until you manually reset it. You will not be able to find Tello's Wi-Fi network when it's in Station mode.
+
+To reset a Tello's wireless mode so to see its Wi-Fi network again, turn on Tello, then press and hold its power button until it restarts. After that, you will be able to find Tello's Wi-Fi network again. 
+";

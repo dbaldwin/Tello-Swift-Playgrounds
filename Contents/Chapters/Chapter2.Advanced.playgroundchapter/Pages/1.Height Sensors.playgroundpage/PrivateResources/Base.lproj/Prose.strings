@@ -1,0 +1,10 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to get Tello's current height, relative to the surface below.
+
+Tello's height sensor provides the distance between the downward facing sensor and the surface below it. To get the value from the height sensor, we use `getHeight()`.
+
+1. Place your Tello on a flat surface.
+2. Make sure the battery level is above 20%.
+3. After takeoff, get Tello's current height, and then land.
+4. Tap **Run My Code**.
+";

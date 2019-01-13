@@ -1,0 +1,13 @@
+"FirstProseBlock" = "
+**Challenge:** Fly Tello around the Space Station from the side.
+
+Tello is an important security tool to the space fleet, so we fly it around the Space Station as we are moving forward. Your next challenge is to fly beside the Space Station, to the other side, and back, all along a set path. Remember to maintain a safe distance at all times!
+
+To do so, you need to fly Tello around the Space Station in a perfect rectangular flight path while keeping Tello facing forward the whole time. The path must start and end at the same point.
+
+* Callout(Tips):
+  1. Fly along the path as indicated.
+  2. Remember to land when you are finished.
+  2. Tap **Run My Code**.
+
+";

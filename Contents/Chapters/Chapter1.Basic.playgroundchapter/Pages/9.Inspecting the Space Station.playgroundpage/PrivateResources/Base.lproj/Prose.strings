@@ -1,0 +1,13 @@
+"FirstProseBlock" = "
+**Challenge:** Control Tello to perform a complete inspection of the Space Station.
+
+The Space Station is big, and we need you to control Tello to perform a full inspection of it. On the right is the path you need to follow. Make sure you follow the path strictly and don't miss anything.
+
+You need to fly within a minimum area of 200×200 cm. 
+
+* Callout(Tips):
+  1. Fly along the path as indicated.
+  2. Adjust your Tello's direction to the same as you take off.
+  3. Remember to land when you are finished.
+  4. Tap **Run My Code**.
+";

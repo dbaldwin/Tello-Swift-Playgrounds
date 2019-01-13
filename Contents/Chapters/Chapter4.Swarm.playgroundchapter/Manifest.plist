@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Professional</string>
+	<key>Pages</key>
+	<array>
+		<string>0.Introduction.cutscenepage</string>
+		<string>1.Connect Tellos to an AP.playgroundpage</string>
+		<string>2.Find all Tellos.playgroundpage</string>
+		<string>3.Control the Flow.playgroundpage</string>
+		<string>4.Form A Guarding Fence.playgroundpage</string>
+		<string>5.Fly At Will.playgroundpage</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+"FirstProseBlock" = "
+**Challenge:** Command Tello to fly in a square while keeping its orientation the same as its course.
+
+When the space fleet reaches a new destination, we need Tello to patrol around the camp. Your challenge is to control Tello to patrol around the Space Station along the camp's edge while keeping the orientation of Tello the same as its flying course.
+
+You need to fly within a minimum area of 200×200 cm.
+
+* Callout(Tips):
+  1. Fly along the path as indicated.
+  2. Use `for` loop to command Tello to travel along the edges with the same distance.
+  3. Adjust your Tello's direction to the same as you take off.
+  4. Remember to land when you are finished.
+  5. Tap **Run My Code**.
+";

@@ -1,0 +1,15 @@
+"FirstProseBlock" = "
+**目标：** 使用 Swift 命令将所有 Tello 都连接到同一个 AP 上。
+
+在实现控制多台 Tello 之前， 你需要先设置他们，让他们连接到同一个无线接入点 (AP)上。准备好 AP 的 SSID 和 密码，然后按照以下步骤操作：
+
+1. 连接到一台 Tello。
+2. 使用 `connectAP(ssid: String, password: String)` 命令，并替换 String 部分为实际 AP 的 SSID 和 密码。记得给替换的字符串加双引号，比如像这样 `connectAP(ssid: \"AP's SSID\", password: \"AP's password\")`
+3. 等待 Tello 重启，然后它会自动连接到 AP。
+4. 重复步骤 1 到 3， 直到设置完你的所有 Tello 。
+
+当 Tello 接收到 `connectAP()` 命令后，它的无线模式会切换为我们所说的 station 模式。Tello 会一直保持处于这个模式下，直到你手动重置它。当 Tello 处于 station 模式时，您将无法找到 Tello 的无线网络。
+
+要重置 Tello 的无线模式以便再次查看它的无线网络，请先开启Tello，然后按住电源按钮直至它重新启动。然后，您就能再次找到 Tello 的无线网络。
+
+";

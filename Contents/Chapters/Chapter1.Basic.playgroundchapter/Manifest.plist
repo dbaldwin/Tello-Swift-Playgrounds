@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Basic</string>
+	<key>Pages</key>
+	<array>
+		<string>0.Introduction.cutscenepage</string>
+		<string>1.Takeoff And Land.playgroundpage</string>
+		<string>2.Ascent and Descent.playgroundpage</string>
+		<string>3.Forward And Backward.playgroundpage</string>
+		<string>4.Fly Over the Space Station.playgroundpage</string>
+		<string>5.Left And Right.playgroundpage</string>
+		<string>6.Fly Around the Space Station.playgroundpage</string>
+		<string>7.Changing the Course.playgroundpage</string>
+		<string>8.Patrol Around Space Station.playgroundpage</string>
+		<string>9.Inspecting the Space Station.playgroundpage</string>
+		<string>10.Fly At Will.playgroundpage</string>
+	</array>
+</dict>
+</plist>

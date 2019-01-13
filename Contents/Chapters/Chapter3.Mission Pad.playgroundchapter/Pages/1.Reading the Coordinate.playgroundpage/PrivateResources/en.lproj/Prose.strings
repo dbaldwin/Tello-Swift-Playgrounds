@@ -1,0 +1,18 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to read Tello's coordinates over the current galaxy.
+
+Tello's Downward Positioning Sensor has the ability to recognize the star pattern, just like you can recognize a person's face. By knowing the pattern, Tello can know exactly which galaxy it is in (Galaxy ID) and where it is (Coordinates). 
+
+To get Tello's Galaxy ID and Coordinates, you need to use the Mission Pad provided. The Mission Pad's ID will be used as the Galaxy ID, and when Tello is flying above a Mission Pad, Tello's Downward Positioning Sensor can identify its coordinates in terms of the Mission Pad's coordinate system.
+
+Like a camera, Tello's Downward Positioning Sensor has a limited sensing range. When Tello has flew too far or too high from a Mission Pad, Tello may not be able to find and recognize the Mission Pad, hence cannot identify the Galaxy ID and the Coordinates.
+
+To get the best recognition result of the Mission Pad, It is recommended to fly Tello with a height range from 20cm to 100cm, and within a horizontal square above the Mission Pad, with a side length of 60cm.
+
+1. Put a Mission Pad on a flat surface.
+2. Place your Tello on the Mission Pad. It is better to put near the center of it.
+3. Make sure the battery level is above 20%.
+4. Take off and use `getPadID()` to get the galaxy ID, and use `getPadPos()` to get Tello's coordinates.
+5. Remember to land when you are finished.
+6. Tap **Run My Code**.
+";

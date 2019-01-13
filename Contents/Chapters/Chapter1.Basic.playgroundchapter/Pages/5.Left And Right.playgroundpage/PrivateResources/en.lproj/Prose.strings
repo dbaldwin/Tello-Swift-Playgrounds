@@ -1,0 +1,13 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to tell Tello to fly left and right.
+
+Like telling Tello to fly forward and backward, you can tell Tello to fly left and right by using `flyLeft(cm: UInt)` and `flyRight(cm: UInt)`.
+
+Before you run the code, make sure you have enough distance for Tello to execute your command.
+
+1. Place your Tello on a flat surface.
+2. Make sure the battery level is above 20%.
+3. Fly 100cm to the left after takeoff.
+4. Fly 100cm to the right, and then land.
+5. Tap **Run My Code**.
+";

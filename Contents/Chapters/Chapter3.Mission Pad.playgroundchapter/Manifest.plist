@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Mission Pad</string>
+	<key>Pages</key>
+	<array>
+        <string>0.Introduction.cutscenepage</string>
+		<string>1.Reading the Coordinate.playgroundpage</string>
+		<string>2.Fly to Given Coordinate.playgroundpage</string>
+		<string>3.Fly Around the Planets.playgroundpage</string>
+		<string>4.Galaxy Jump.playgroundpage</string>
+		<string>5.Return from the New Galaxy.playgroundpage</string>
+		<string>6.Explore the New Galaxy.playgroundpage</string>
+		<string>7.Fly At Will.playgroundpage</string>
+	</array>
+</dict>
+</plist>

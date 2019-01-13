@@ -1,0 +1,17 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to make Tello fly in a straight line to a given coordinate.
+
+The commands we learned in the last chapter can fly Tello anywhere you want.
+But to fly to the diagonal point of a square, it takes 2 commands.
+To fly to the diagonal point of a cube, it takes 3 commands. This wastes too much energy in space.
+
+That's why we are introducing command `flyLine(x: Int, y: Int, z: Int)`.
+By giving the target coordinate, or the relative distance from the current position to the target position,
+we can make Tello fly a straight line to any point directly in space.
+
+1. Place your Tello on a flat surface.
+2. Make sure the battery level is above 20%.
+3. Take off and fly a straight line to point (x:100, y:100, z:0)
+4. Land when it's done.
+5. Tap **Run My Code**.
+";

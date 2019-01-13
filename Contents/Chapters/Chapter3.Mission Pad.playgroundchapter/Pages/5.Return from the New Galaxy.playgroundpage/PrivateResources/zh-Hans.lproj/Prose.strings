@@ -1,0 +1,14 @@
+"FirstProseBlock" = "
+**挑战：** 控制 Tello 从新的银河系飞回来。
+
+现在你已经进入了新的银河系了。Wi-Fi 信号仍然很稳定，这是一个好兆头。
+
+我们需要你通过原路返回，以便确保进行星系跳跃的来往路径都是有效的。再次使用 `transit(x: Int, y: Int, z: Int, pad1: Int, pad2: Int)` 命令飞回来吧。
+
+现在得靠你自己飞回来了。祝你好运！
+
+* Callout(提示):
+  1. 记得使用 挑战卡 并使用命令获取他的 ID。
+  2. 使用 `transit(x: Int, y: Int, z: Int, pad1: Int, pad2: Int)` 命令时，记得设置正确的参数。
+
+";

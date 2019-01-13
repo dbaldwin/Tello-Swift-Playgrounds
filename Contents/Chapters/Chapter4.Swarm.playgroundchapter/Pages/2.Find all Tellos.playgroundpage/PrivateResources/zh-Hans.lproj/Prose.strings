@@ -1,0 +1,13 @@
+"FirstProseBlock" = "
+**目标：** 使用 Swift 命令找到连接到同一个 AP 的所有 Tello。
+
+当你将所有 Tello 都设置为连接到同一个 AP 后，你发现已经找不到这些 Tello 的无线网络了。
+
+别担心，我们现在就找他们回来。
+
+在开始之前，请先把 Tello 放在 挑战卡 上，一台一张。建议你至少使用 **2** 台 Tello 和 **2** 张 挑战卡 来完成任务。将 挑战卡 放在平坦的地面上，保持彼此 1 米左右的间距，然后把 Tello 放在 挑战卡 上。 
+
+1. 你需要将 iPad 也连接到同一个 AP。
+2. 使用 `swarm.scan(number: Int)` 命令来扫描 Tello，设置 number 参数为你想要找到 Tello 总数。
+3. 使用 `swarm.tellos.takeOff()` 命令控制所有 Tello 一起起飞，使用 `swarm.tellos.land()` 控制所有 Tello 降落。
+";

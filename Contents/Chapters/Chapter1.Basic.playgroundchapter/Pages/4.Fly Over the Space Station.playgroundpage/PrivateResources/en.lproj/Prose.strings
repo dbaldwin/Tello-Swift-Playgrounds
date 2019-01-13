@@ -1,0 +1,15 @@
+"FirstProseBlock" = "
+**Challenge:** Fly Tello over the Space Station.
+
+You have learned essential Tello commands. And it's time to start your first challenge. The Space Station needs daily inspections, so we'll gather information from Tello's bottom sensor. This means you need to fly over the Space Station.
+
+You'll need to use all the commands you've learned, in the right order, to fly over the Space Station.
+
+Don't worry if you don't get it right the first time. This is your chance to experiment and explore.
+
+* Callout(Tips):
+  1. Remember to take off first.
+  2. Fly forward 100 cm until you are above the center of the Space Station, fly up 100 cm and fly forward another 100 cm to cross the whole length of the station, then fly down 100 cm and fly backward 200 cm.
+  3. Land at the takeoff position.
+
+";

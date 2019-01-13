@@ -1,0 +1,13 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to tell Tello to take off and land.
+
+Like every aircraft, you need to first take off. You'll write Swift commands to tell Tello to take off and land.
+
+1. Make sure your iPad has connected to Tello's Wi-Fi network.
+2. Place your Tello on a flat surface.
+3. Make sure the battery level is above 20%.
+4. Enter the first commands `takeOff()`.
+5. Enter `wait(seconds: 3)` to hold your Tello in the air for 3 seconds.
+6. Enter the final commands `land()`.
+7. Tap **Run My Code**.
+";

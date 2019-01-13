@@ -1,0 +1,14 @@
+"FirstProseBlock" = "
+**Challenge:** Control Tello to fly back from the new galaxy.
+
+Now you are in the new galaxy. The Wi-Fi transmission signal is still strong, which is a good sign. 
+
+We need you to come back first to make sure the pathway works in both direction.
+Use the `transit(x: Int, y: Int, z: Int, pad1: Int, pad2: Int)` command you just learn to jump back.
+
+You are on your own now. Good luck!
+
+* Callout(Tips):
+  1. Remember to use the Mission Pads and check their ID.
+  2. Use `transit(x: Int, y: Int, z: Int, pad1: Int, pad2: Int)` command and set the correct parameters.
+";

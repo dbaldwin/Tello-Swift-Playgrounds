@@ -1,0 +1,8 @@
+"FirstProseBlock" = "**Goal:** Design your own paths for Tello. 
+
+ Tell your Tello to get sensor data.
+
+
+ 1. Place your Tello on the ground. 
+ 2. Enter the final commands land()
+ 3. Tap **Run My Code** to activate.";

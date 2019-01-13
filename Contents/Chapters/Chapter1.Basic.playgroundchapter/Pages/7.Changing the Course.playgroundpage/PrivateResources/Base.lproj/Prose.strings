@@ -1,0 +1,13 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to tell Tello to change its orientation.
+
+For all the commands you have learned, Tello's heading does not change. To change it, you need to use `turnLeft(degree: Int)` and `turnRight(degree: Int)` commands. 
+
+Degrees inside the parentheses indicate much you want Tello to turn. You can choose between 0 to 3600. If you choose 3600, Tello will complete 10 full turns.  Make sure you have enough battery to do it; otherwise, Tello will stop turning and land due to the low battery.
+
+1. Place your Tello on a flat surface.
+2. Make sure the battery level is above 20%.
+3. After takeoff, turn 90 degrees to the left.
+4. Turn 90 degrees to the right, and then land.
+5. Tap **Run My Code**.
+";

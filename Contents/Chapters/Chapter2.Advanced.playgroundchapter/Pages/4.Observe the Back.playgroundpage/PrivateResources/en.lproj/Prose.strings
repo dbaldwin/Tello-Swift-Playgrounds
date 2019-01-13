@@ -1,0 +1,15 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to tell Tello to fly a curved line via two given coordinates.
+
+Have you ever wondered whether Tello can fly in a curved line? The answer is yes, it can! 
+
+Unlike other commands, you need to provide Tello with two coordinates in space to generate the curved path. If the coordinates can be fitted into a curved line in space, and it is within Tello's flight range (Curve radius within 0.5 to 10m), Tello will execute the curve command. Otherwise, Tello will not fly at all.
+
+Your goal is to control Tello to follow the plant's lowest orbit and reach the farthest end of it.
+
+1. Place your Tello on a flat surface.
+2. Make sure the battery level is above 20%.
+3. Take off and fly a curve line via point (x1:100, y1:100, z1:0) and (x2:200, y2:0, z2:0).
+4. Land after Tello reach the point.
+5. Tap **Run My Code**.
+";

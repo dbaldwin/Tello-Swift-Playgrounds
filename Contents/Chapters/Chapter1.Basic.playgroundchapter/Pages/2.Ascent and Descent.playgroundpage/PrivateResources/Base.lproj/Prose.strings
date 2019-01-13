@@ -1,0 +1,15 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to tell Tello to fly up and down.
+
+As you learned in the last lesson, when using `takeOff()` and `land()`, you don't have to put anything inside the parentheses. It's different when you are telling Tello to fly up and down, as you need to specify the distance.
+
+Tello measures flying distance in centimeters, so `flyUp(cm: 100)` means fly up 100 cm from the current height. Here, the distance is relative to the current position, so to use `flyUp(cm: 100)` again Tello will fly up 100cm again.
+
+Before you tell Tello to fly up, make sure there is enough space above it. However, you can tell Tello to fly down as far as you want without worrying about crashing. Tello's Downward Positioning Sensor keeps monitoring the distance below, and will stop flying when the minimum distance is reached. 
+
+1. Place your Tello on a flat surface.
+2. Make sure the battery level is above 20%.
+3. Fly 100cm up after takeoff.
+4. Fly 100cm down, and then land.
+5. Tap **Run My Code**.
+";

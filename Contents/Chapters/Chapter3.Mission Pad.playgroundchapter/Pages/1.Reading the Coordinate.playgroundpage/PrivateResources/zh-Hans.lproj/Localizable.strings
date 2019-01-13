@@ -1,0 +1,15 @@
+/* Reading the Coordinate page success */
+"### Congratulations!\nYou’ve learned the key features of the Mission Pad!\n\n[**Next Page**](@next)" = "### 恭喜！\n你已经掌握了挑战卡的主要功能。\n\n\n\n[**下一页**](@next)";
+
+/* getPadID hint */
+"To get Pad ID of drone you need to use the `getPadID()` command." = "要获得 Pad ID 你需要使用 `getPadID()` 指令。";
+
+/* getPadPos hint */
+"To get Pad position of drone you need to use the `getPadPos()` command." = "要获得 Pad坐标 你需要使用 `getPadPos()` 指令。";
+
+/* land hint */
+"To land you need to use the `land()` command." = "让 Tello 降落你需要使用 `land()` 指令。";
+
+/* takeOff hint */
+"To take off you need to use the `takeOff()` command." = "让 Tello 起飞你需要使用 `takeOff()` 指令。";
+

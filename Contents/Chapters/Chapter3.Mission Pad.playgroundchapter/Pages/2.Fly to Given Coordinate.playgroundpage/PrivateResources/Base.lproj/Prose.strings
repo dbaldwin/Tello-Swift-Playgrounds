@@ -1,0 +1,15 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to fly Tello to the coordinate of the galaxy.
+
+By knowing the Galaxy ID, and the Coordinates of the destination, you can program Tello to fly directly to it. Here we use a slightly different version of `flyLine(x: Int, y: Int, z: Int, pad: Int)`. By giving the Galaxy ID in the end, Tello will fly in the Mission Pad's coordinate system, instead of flying in its own coordinates. Without a Mission Pad under it, Tello's current coordinate will always reset to 0 when it's hovering.
+
+To make Tello fly to the coordinates in the galaxy, you need to use the Mission Pad we provided. Remember to fly within the Mission Pad's recommended range.
+
+1. Put a Mission Pad on a flat surface.
+2. Place your Tello on the Mission Pad. It is better to put near the center of it.
+3. Make sure the battery level is above 20%.
+4. A variable padId is introduced  to represent the Galaxy ID. Assign function `getPadID()` to padId after takeoff.
+5. Fly a straight line to point (x: 30, y: 0, z: 100, pad: padId). You can see we've filled in padId for you. 
+6. Land after it's done.
+7. Tap **Run My Code**.
+";

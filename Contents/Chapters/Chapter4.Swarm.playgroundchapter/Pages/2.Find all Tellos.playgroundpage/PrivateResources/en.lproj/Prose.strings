@@ -1,0 +1,13 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift command to find all Tellos that are connected to the same Access Point.
+
+After you set all Tellos to connect to the same AP, you will notice all Tello's Wi-Fi network cannot be found.
+
+No worry. Let's find them back.
+
+Before you begin, prepare one Mission Pad for one Tello. You need at least Two Tellos and Two Mission Pads for this mission. Place the Mission Pads on a flat surface, with at least 1m away from each other, and put one Tello on one Mission Pad. 
+
+1. You need to connect your iPad to the same AP.
+2. Use `swarm.scan(number: Int)` and set the number parameter.
+3. Use `swarm.tellos.takeOff()` to control all Tellos to take off and land.
+";

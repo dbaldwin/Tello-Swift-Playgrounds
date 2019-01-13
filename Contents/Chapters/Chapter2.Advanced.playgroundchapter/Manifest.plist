@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Version</key>
+	<string>1.0</string>
+	<key>Name</key>
+	<string>Advanced</string>
+	<key>Pages</key>
+	<array>
+		<string>0.Introduction.cutscenepage</string>
+		<string>1.Height Sensors.playgroundpage</string>
+		<string>2.Adjust Fly Speed.playgroundpage</string>
+		<string>3.Observe the Front.playgroundpage</string>
+		<string>4.Observe the Back.playgroundpage</string>
+		<string>5.Full Observation.playgroundpage</string>
+		<string>6.Fly At Will.playgroundpage</string>
+	</array>
+</dict>
+</plist>

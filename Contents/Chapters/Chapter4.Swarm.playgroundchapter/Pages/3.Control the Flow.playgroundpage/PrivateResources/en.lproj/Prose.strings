@@ -1,0 +1,16 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift command to control all Tellos to fly in the same way.
+
+When controlling multiple Tellos, you may want to have them fly in the same rhythm, even when their flying commands are different. 
+
+For example, you may want some Tellos to fly up while the others fly down, or some to fly left while the others fly right, and you may want them to start and complete each movement in the same time.
+
+To do so, we need to keep all Tello's in sync, that is if some Tellos have not finished their last movement, the other Tellos should wait for them. Therefore, we introduce the `swarm.sync(seconds: UInt)` method.
+
+Prepare at least 2 Tellos and 2 Mission Pads, and try it out.
+1. Make sure 1 Tello is on 1 Mission Pad, and each Mission Pad are at least 1 m away from the other.
+2. Make all Tellos take off in the same time.
+3. Make half of the Tellos to fly up 50 cm, half to fly down 50 cm.
+4. Make the Tellos that are up to fly down 100 cm, those that are down to fly up 100cm, then reverse.
+5. Repeat Step 4 for 4 times, make all Tellos to hover at the same height, then land.
+";

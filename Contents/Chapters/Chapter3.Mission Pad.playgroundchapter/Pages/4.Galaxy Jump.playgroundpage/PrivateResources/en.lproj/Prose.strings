@@ -1,0 +1,14 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift command to fly Tello from one galaxy to another.
+
+You are now ready for the galaxy jump.  To do so you will need to use the `transit(x: Int, y: Int, z: Int, pad1: Int, pad2: Int)` command. This command will control Tello to jump from Galaxy 1 to Galaxy 2, where Galaxy 2 is on the coordinates (x, y, z) of Galaxy 1, and z is the height of Tello when it reaches Galaxy 2.
+
+To make Tello fly to the new galaxy, you need to use the Mission Pads we provided and align them as we've instructed.
+
+1. Put **Two** Mission Pads on a flat surface.
+2. Place your Tello on the Mission Pad 1. It is better to put near the center of it.
+3. Make sure the battery level is above 20%.
+4. check the Galaxy ID before and after you jump.
+5. Enter `transit(x: 100, y: 0, z: 100, pad1: Int, pad2: Int)`. Fill in pad1 and pad2 parameter with the actual ID of your Mission Pads.
+6. Tap **Run My Code**.
+";

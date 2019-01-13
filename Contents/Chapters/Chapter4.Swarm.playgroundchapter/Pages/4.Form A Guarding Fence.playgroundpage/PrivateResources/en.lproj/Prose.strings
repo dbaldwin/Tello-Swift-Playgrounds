@@ -1,0 +1,18 @@
+"FirstProseBlock" = "
+**Challenge:** Control Tellos to fly in a square area around the assembly point.
+
+You are now ready to form your Tello team to secure the assembly point in the new galaxy. Commands all your Tellos to take off and command them to fly to another corner, then make hem continually patrol the area for one full round. 
+
+This mission need 4 Mission Pads. Form a square with the Mission Pad. Adjust the orientation of the Mission Pad so the little rocket on each one points to the next one. Make sure the ID of the Mission Pad increases from 1 to 4 following a clockwise sequence.
+
+We will use `swarm.tellos.transit(x: Int, y: Int, z: Int)` command to inform all Tellos to fly to the next Mission Pad at once. The `(x, y, z)` represents the coordinate of a Mission Pad relative to the previous one. Make sure their relative position is the same.
+
+
+* Callout(Tips):
+  1. Put all 4 Mission Pads out. Each Mission Pad are at least 1 m away from the other.
+  2. Make sure a Tello is on a Mission Pads. You can use no more than 4 Tellos.
+  3. Make all Tellos take off at the same time.
+  4. Command the Tellos to fly from one Mission Pad to another, using the `transit()` command.
+  5. After all Tellos finished their patrol around all 4 Mission Pads, make them land together.
+
+";

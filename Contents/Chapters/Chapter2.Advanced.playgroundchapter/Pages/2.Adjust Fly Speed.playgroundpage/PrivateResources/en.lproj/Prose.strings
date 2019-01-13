@@ -1,0 +1,15 @@
+"FirstProseBlock" = "
+**Goal:** Use Swift commands to adjust Tello's speed.
+
+Tello flies at full speed by default. But sometimes you may want to fly slower, especially when you are performing an inspection.
+
+Try to use `setSpeed(cms: UInt)` to adjust Tello's flying speed. You can adjust the speed from 1cm/s to 100cm/s.
+
+
+1. Place your Tello on a flat surface.
+2. Make sure the battery level is above 20%.
+3. After takeoff, fly 180 cm forward and turn 180 degrees.
+4. Set the speed to 50% and fly 180 cm forward.
+5. Turn 180 degrees and land.
+6. Tap **Run My Code**.
+";

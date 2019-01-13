@@ -1,0 +1,12 @@
+"FirstProseBlock" = "
+**Challenge:** Control Tello to fly to the new galaxy, cruise around it, then fly back.
+
+All right. With your hard work, it looks the wormhole is very promising and stable for us to go in and explore the new galaxy ourselves. We need you to lead the Forward Team and go in again. 
+
+Once you are in the new galaxy, expand the observation area to a square area near the wormhole. That will be our assembly point. We will meet you there soon.
+
+* Callout(Tips):
+  1. Remember to use the Mission Pads and check their IDs.
+  2. Use `transit(x: Int, y: Int, z: Int, pad1: Int, pad2: Int)` command to jump between galaxies.
+  3. Cruise around the corners of the new galaxy to form the square area as assembly point. Use the coordinates of the four corners we provided.
+";

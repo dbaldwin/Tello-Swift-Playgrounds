@@ -1,0 +1,12 @@
+"FirstProseBlock" = "
+**Challenge:** Control Tello to gather information about the new planet at the vertical orbit to measure its size.
+
+We need to inspect the new planet by checking its size. Your mission is to fly to the planet's highest point, and use the height sensors to detect the distance between Tello and the planet's surface. Once we know the orbit's diameter, we will know the actual size of the planet.
+
+* Callout(Tips):
+  1. Use the z part in the coordinate to change the flying height.
+  2. Fly a quarter circle instead of a full circle. Otherwise you will not be able to get the reading at the highest point.
+  3. Positive z means fly to a higher latitude. Negative z means fly lower.
+  4. Remember to get the data from the height sensor when you are there.
+  5. Fly another quarter circle back to the side of the planet near the Space Station.
+";
